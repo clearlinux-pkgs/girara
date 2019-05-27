@@ -1,0 +1,20 @@
+option('notify',
+  type: 'feature',
+  value: 'disabled',
+  description: 'notifications using libnotify'
+)
+option('json',
+  type: 'feature',
+  value: 'auto',
+  description: 'dump configuration using JSON'
+)
+option('docs',
+  type: 'feature',
+  value: 'auto',
+  description: 'doxygen API documentation'
+)
+option('tests',
+  type: 'feature',
+  value: 'auto',
+  description: 'run tests'
+)
