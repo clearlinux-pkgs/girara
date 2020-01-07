@@ -1,7 +1,0 @@
-0.3.3
-doxygen
-glib-dev
-pkgconfig(check)
-pkgconfig(glib-2.0)
-pkgconfig(gtk+-3.0)
-pkgconfig(json-c)
