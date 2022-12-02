@@ -1,0 +1,3 @@
+0.3.8
+json-glib-dev
+pkgconfig(json-glib-1.0)
