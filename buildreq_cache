@@ -1,3 +1,4 @@
-0.3.8
+0.4.1
 json-glib-dev
 pkgconfig(json-glib-1.0)
+xvfb-run
