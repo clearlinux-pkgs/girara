@@ -7,7 +7,7 @@
 #
 Name     : girara
 Version  : 0.4.3
-Release  : 10
+Release  : 11
 URL      : https://github.com/pwmt/girara/archive/0.4.3/girara-0.4.3.tar.gz
 Source0  : https://github.com/pwmt/girara/archive/0.4.3/girara-0.4.3.tar.gz
 Summary  : User interface library focused on simplicity and minimalism
